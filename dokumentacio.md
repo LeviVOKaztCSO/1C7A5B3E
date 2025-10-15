@@ -9,3 +9,6 @@ A felhasználó böngészhet az autók között, és szűrhet különböző para
 - **HTML5** – az oldal szerkezetéhez  
 - **CSS3** – a megjelenés és stílus kialakításához  
 - **JavaScript** – az interaktiv funkciokhoz (pl. szures, rendezes)  
+
+
+### a feladathoz a microsoft co pilot ai lett hasznalva 
