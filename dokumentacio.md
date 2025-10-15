@@ -5,8 +5,7 @@ A projekt témája az autók.
 A weboldal célja, hogy megjelenítse különböző autómárkákat és típusaikat, alapvető információkkal.
 A felhasználó böngészhet az autók között, és szűrhet különböző paraméterek alapján.
 
-##  Felhasznált technológiák  
-- **HTML5** – az oldal szerkezetéhez  
+##  Felhasznált technológiák   
 - **CSS3** – a megjelenés és stílus kialakításához  
 - **JavaScript** – az interaktiv funkciokhoz (pl. szures, rendezes)  
 
